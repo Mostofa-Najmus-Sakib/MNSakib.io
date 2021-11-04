@@ -38,8 +38,8 @@ You can visit my <a href="https://scholar.google.com/citations?user=-xqIiEYAAAAJ
 
 #### Journal (On process)
   
-- <b>Sakib</b>, M. N.; Sadegh, M. and Mishra, D. “Development of fraud detection algorithm and application of ML algorithms to detect Plausible Correction and Suspicious Alteration cases” 
-- <b>Sakib</b>, M. N.; Sadegh, M. and Mishra, D. “Monetary analysis to quantify the amount of economic loss due to data manipulation on asphalt pavement projects” 
+- <b>Sakib, M. N.</b>; Sadegh, M. and Mishra, D. “Development of fraud detection algorithm and application of ML algorithms to detect Plausible Correction and Suspicious Alteration cases” 
+- <b>Sakib, M. N.</b>; Sadegh, M. and Mishra, D. “Monetary analysis to quantify the amount of economic loss due to data manipulation on asphalt pavement projects” 
 
 
 
