@@ -16,7 +16,7 @@ title: Projects
 
 #### Past Projects
 
-- <b style="font-size:24px"> Development of search engine result pages [Jan'21 - Aug'21]</b>
+- <b style="font-size:24px"> Improving the representation of search engine result pages for children [Jan'21 - Aug'21]</b>
 
 <p><small> This project was done to improve search engine result pages (adding like, dislike, bookmarks, navigation icon) for children to foster interactions.</small></p>
 
