@@ -46,9 +46,9 @@ hr.small {
 .main-content {
   padding-top: 80px;
 }
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 640px) {
   .main-content {
-    padding-top: 130px;
+    padding-top: 80px;
   }
 }
 
@@ -81,16 +81,16 @@ img::-moz-selection {
 }
 
 img {
-  max-width: 100%;
+  max-width: 80%;
 }
 
 .disqus-comments {
   margin-top: 30px;
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 640px) {
   .disqus-comments {
-    margin-top: 40px;
+    margin-top: 30px;
   }
 }
 
