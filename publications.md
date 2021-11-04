@@ -26,7 +26,7 @@ You can visit my <a href="https://scholar.google.com/citations?user=-xqIiEYAAAAJ
 
 - Mondal, M. S. and <b>Sakib, M. N. </b> “Scale-dependent reliability of the PRECIS model for rainfall projection in the Southern Bangladesh.” 6th International Conference on Water & Flood Management (ICWFM-2017). 
 
--  Chowdhury, M. M.  A.; <b> Sakib, M. N.; Jahan, M. and Rahman, M. A. “Social  Sufferings  Due  To  Saline  Water  Issues  in  Mongla  Upazilla,  Bagherhat.”   International Conference on Engineering Research, Innovation and Education (ICERIE-2017)
+-  Chowdhury, M. M.  A.; <b> Sakib, M. N.</b>; Jahan, M. and Rahman, M. A. “Social  Sufferings  Due  To  Saline  Water  Issues  in  Mongla  Upazilla,  Bagherhat.”   International Conference on Engineering Research, Innovation and Education (ICERIE-2017)
   
 - Akter, R.; Sakib, M.; <b> Sakib, M. N.</b>; Zaman, S.; Haque, A.; Rahman, M. and Hossain, D. “Assessment of Salinity Hazard Based on Residence Time of Salinity in Bangladesh Coast.” 6th International Conference on Water & Flood Management (ICWFM-2017). 
 
