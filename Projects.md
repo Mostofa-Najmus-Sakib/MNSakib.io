@@ -17,7 +17,7 @@ title: Projects
 ## Past Projects
 
 
-- <b style="font-size:24px"> Movie Recommendation system [Oct'21]</b>
+- <b style="font-size:24px"> Movie recommendation system [Oct'21]</b>
 
 <p><small> As part of this project, I build a content based recommender system using the disney plus movies and tv shows dataset..</small></p>
 
