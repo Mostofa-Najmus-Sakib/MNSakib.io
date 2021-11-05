@@ -9,6 +9,8 @@ title: Projects
 
 <p><small> This project emphasis on the development of a framework to detect sockpuppet in Wikipedia. I am working on this project as part of my MS thesis. </small></p>
 
+
+
 - <b style="font-size:24px"> Development of a search engine [Aug'21 - Dec'21]</b>
 
 <p><small> In this project, I developed a search engine capable of query formation/suggestions and identifying candidate resources based on relevance ranking.</small></p>
