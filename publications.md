@@ -28,6 +28,7 @@ You can visit my <a href="https://scholar.google.com/citations?user=-xqIiEYAAAAJ
 - <b>Sakib, M. N.</b>; Sadegh, M. and Mishra, D. “Development of fraud detection algorithm and application of ML algorithms to detect Plausible Correction and Suspicious Alteration cases” 
 - <b>Sakib, M. N.</b>; Sadegh, M. and Mishra, D. “Monetary analysis to quantify the amount of economic loss due to data manipulation on asphalt pavement projects”
 
+
 #### Conference papers
 
 - Mondal, M. S. and <b>Sakib, M. N. </b> “Scale-dependent reliability of the PRECIS model for rainfall projection in the Southern Bangladesh.” 6th International Conference on Water & Flood Management (ICWFM-2017). 
