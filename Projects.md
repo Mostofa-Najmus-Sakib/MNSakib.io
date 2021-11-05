@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-#### Recent Projects
+## Recent Projects
 
 - <b style="font-size:24px"> Detection of sosckpuppet in Wikipedia [Aug'21 - July'22] </b>
 
@@ -14,7 +14,7 @@ title: Projects
 <p><small> In this project, I developed a search engine capable of query formation/suggestions and identifying candidate resources based on relevance ranking.</small></p>
 
 
-#### Past Projects
+## Past Projects
 
 
 - <b style="font-size:24px"> Movie Recommendation system [Oct'21]</b>
