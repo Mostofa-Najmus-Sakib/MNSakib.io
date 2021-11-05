@@ -26,7 +26,7 @@ title: Projects
 
 
 - <b style="font-size:24px"> Movie recommendation system [Oct'21]</b>
-<p><small> As part of this project, I build a content based recommender system using the disney plus movies and tv shows dataset..</small>
+<p><small> As part of this project, I built a content based recommender system using the disney plus movies and tv shows dataset..</small>
 <a href="https://github.com/Mostofa-Najmus-Sakib/Recommender-System">[Project URL]</a>
 </p>
 
@@ -41,7 +41,7 @@ title: Projects
 </p>
 
 - <b style="font-size:24px"> BERT fine-tuning [Apr'21]</b>
-<p><small> In this project,, I classified the WOS dataset using torch with a hugging face BERT tokenizer and pre-trained transformer model.</small>
+<p><small> In this project, I classified the WOS dataset using torch with a hugging face BERT tokenizer and pre-trained transformer model.</small>
   <a href="https://github.com/Mostofa-Najmus-Sakib/NLP-works/tree/main/Assisgnment_8">[Project URL]</a>
 </p>
 
