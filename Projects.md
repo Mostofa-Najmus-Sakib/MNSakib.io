@@ -16,18 +16,34 @@ title: Projects
 
 #### Past Projects
 
+
+- <b style="font-size:24px"> Movie Recommendation system [Oct'21]</b>
+
+<p><small> As part of this project, I build a content based recommender system using the disney plus movies and tv shows dataset..</small></p>
+
 - <b style="font-size:24px"> Improving the representation of search engine result pages for children [Jan'21 - Aug'21]</b>
 
 <p><small> This project was done to improve search engine result pages (adding like, dislike, bookmarks, navigation icon) for children to foster interactions.</small></p>
 
-- <b style="font-size:24px"> Readibiliy model for children [Jan'21 - Aug'21]</b>
+- <b style="font-size:24px"> BERT fine-tuning [Apr'21]</b>
 
+<p><small> In this project,, I classified the WOS dataset using torch with a hugging face BERT tokenizer and pre-trained transformer model.</small></p>
+
+- <b style="font-size:24px"> Readibiliy model for children [Jan'21 - Aug'21]</b>
 <p><small> Developed a readability model for children’s text using lexical, syntactic features and BERT fine-tuning.</small></p>
 
-- <b style="font-size:24px"> Identified misinformation on social media [Dec'20]</b>
+- <b style="font-size:24px"> Context-free grammar design [Feb'21]</b>
 
+<p><small> This project emphasizes on the generation of context-free grammar for tamarian language with NLTK library to apply parts of speech tag instead of words.</small></p>
+
+- <b style="font-size:24px"> Identified misinformation on social media [Dec'20]</b>
 <p><small> In this research project, misinformation was detected on social media datasets utilizing network, text, and news features.</small></p>
 
+- <b style="font-size:24px"> Semi-optimal player for suspicion game [Dec'20]</b>
+<p><small> In this project, optimization of the game moves using uncertainty approaches were implemented.</small></p>
+
+- <b style="font-size:24px"> Agricultural change calculation [Dec'20]</b>
+<p><small> Calculated the agricultural trend and measured the impact of urban development and climate change on the rural land of Idaho. [Data: USDA census of agriculture, US census, terraclimate].</small></p>
 
 
 - <b style="font-size:24px"> Assessing the prevalence of suspicious activities in asphalt pavement construction using algorithmic logics and machine learning [Aug'18 - July'2020]</b>
